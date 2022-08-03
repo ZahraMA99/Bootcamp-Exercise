@@ -1,0 +1,25 @@
+==> Objects work just like a dictionary you could find in the library
+==> Objects is an key-value store 
+==> key is "uniqe"
+
+
+ex. 
+
+let person = {
+  name: "Mariah",
+  occupation: "Gangster"
+}
+
+** important note 
+Note that the value of any key can be anything. Strings, numbers, booleans, arrays, other objects, even functions*!
+
+
+** access element in object => 2-ways:
+        1. person.eagle = 24
+        2. person["eagle"] = 24
+
+
+
+** note :
+As opposed to strings, numbers, and booleans which are all primitive types, arrays and objects are reference types.
+JS does not create a new space in memory for reference types. Instead, it references an existing space, if possible.

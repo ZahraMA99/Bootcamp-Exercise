@@ -1,0 +1,4 @@
+// loops
+
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object

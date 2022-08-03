@@ -1,0 +1,40 @@
+
+ // Array 
+    1. let arr = [];
+    2. push => to add new element to the array 
+    3. two ways to deal with content of array:
+        a. index => arr[0];
+        b. spread syntax => (...nameOfArray)
+
+
+
+// spread syntax: to call an array elements 
+for example:
+// Spread 
+employees.push(...candidates)
+console.log(sum(...numbers));
+// Index
+employees.push(candidates[0], candidates[1], candidates[2])
+console.log(numbers[0] + numbers[1] +numbers[2]  );
+
+
+
+/************************************************/
+
+
+There is a method called splice, and it needs two things:
+    1. Where to start removing
+    2. How many to remove from that point
+    also 
+    3. Where to start adding
+    4. How many to add from that point
+
+example: 
+companies.splice(1, 1)
+ ==> That’s saying "go to the 1st index, and remove 1 item from there".
+
+¬ return value :
+ When you use splice, the method will return* the item(s) that you removed from the array.
+
+ /************************************************/
+

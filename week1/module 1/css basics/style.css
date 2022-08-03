@@ -1,0 +1,24 @@
+#main-box {
+  width: 214px;
+  background-color: rgb(175, 167, 167);
+  box-shadow: 3px 5px 5px black;
+}
+.box {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 2px solid;
+  border-color: black;
+}
+#green-box {
+  background-color: rgb(42, 163, 119);
+}
+#orange-box {
+  background-color: rgb(244, 129, 6);
+}
+#win-button {
+  background-color: rgb(59, 230, 133);
+  border-color: rgb(68, 163, 79);
+  border: 2px solid;
+  border-color: rgb(6, 154, 95);
+}

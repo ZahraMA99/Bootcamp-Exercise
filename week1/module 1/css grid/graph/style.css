@@ -1,0 +1,12 @@
+.container {
+  width: 450px;
+  height: 200px;
+  background-color: rgb(94, 17, 228);
+}
+
+.money {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.5cm;
+  position: absolute;
+  margin-top: ;
+}

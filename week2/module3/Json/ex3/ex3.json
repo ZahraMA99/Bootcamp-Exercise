@@ -1,0 +1,23 @@
+{
+  "name": "Elephant",
+  "weight": "3500-7000kg",
+  "habitates": [" savannas", "marshes"],
+  "endangered": true,
+  "food": {
+    "likes": [
+      {
+        "bushes": {
+          "amount": 50
+        }
+      },
+      {
+        "twigs": {
+          "amount": 100
+        }
+      }
+    ],
+    "dislikes": ["meat", "bones"]
+  },
+  "animalsElepEeat": ["tiger", "fish"],
+  "deleciousOfFive": 0
+}
