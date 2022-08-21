@@ -16,9 +16,9 @@ render() {
  return (
  <div className="ex-space">
           <div className="exercise" id="ex-2">
-          <div id="weatherBox" className={this.getClassName(10)}></div>
-          <div id="weatherBox" className={this.getClassName(15)}></div>
-          <div id="weatherBox" className={this.getClassName(35)}></div>
+          <div id="weatherBox" className={this.getClassName(9)}></div>
+          <div id="weatherBox" className={this.getClassName(22)}></div>
+          <div id="weatherBox" className={this.getClassName(45)}></div>
           </div>
         </div>)
   
